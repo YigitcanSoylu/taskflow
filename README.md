@@ -61,10 +61,10 @@ Projeyi çalıştırmak için aşağıdaki araçlar gereklidir:
 GitHub reposunu bilgisayarınıza klonlayın:
 
 ```bash
-git clone REPO_URL
+git clone https://github.com/YigitcanSoylu/taskflow
 ```
 
-`REPO_URL` yerine projenin GitHub bağlantısını yazın.
+`https://github.com/YigitcanSoylu/taskflow` yerine projenin GitHub bağlantısını yazın.
 
 Ardından proje klasörüne girin:
 
